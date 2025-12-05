@@ -35,7 +35,7 @@ Mastery Pack Sale and NES Omega conversion values. I am not autistic.
 
 ---
 
-## Mastery Addition (1 + 2 + 3 + 4)
+## Mastery Addition
 
 | Mastery           | Price   | Omega (days) | Plex | Plex ISK Value    | SP        | MCT | Boosts            | Skill Extractors | NES Omega Conversion | Omega Total           | Cost/Month | Selling Leftover Plex | Selling Extractors   | Total ISK from Selling |
 | ----------------- | ------- | ------------ | ---- | ----------------- | --------- | --- | ----------------- | ---------------- | -------------------- | --------------------- | ---------- | --------------------- | -------------------- | ---------------------- |
