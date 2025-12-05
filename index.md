@@ -1,15 +1,74 @@
 <style>
-.main-content {
-    max-width: 100% !important;
-    width: 100% !important;
-    padding-left: 2rem !important;
-    padding-right: 2rem !important;
-}
+  /* ============================
+     GLOBAL DARK MODE
+     ============================ */
+  html, body {
+    background-color: #020617;
+    color: #e5e7eb;
+    margin: 0;
+    padding: 0;
+  }
 
-table {
-    width: 100% !important;
-    table-layout: fixed;
-}
+  /* Make the main content wide on common GitHub Pages themes */
+  .main-content,
+  .wrapper,
+  .container-lg,
+  .page,
+  .inner {
+    max-width: 1200px !important;
+    width: 95% !important;
+    margin: 0 auto !important;
+  }
+
+  /* Headings */
+  h1, h2, h3, h4, h5, h6 {
+    color: #e5e7eb;
+  }
+
+  /* Links */
+  a {
+    color: #38bdf8;
+  }
+  a:hover {
+    color: #0ea5e9;
+  }
+
+  /* ============================
+     TABLE STYLING
+     ============================ */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1.5rem 0;
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  th, td {
+    border: 1px solid #1f2937;
+    padding: 0.5rem 0.75rem;
+    text-align: left;
+  }
+
+  th {
+    background-color: #111827;
+    font-weight: 600;
+  }
+
+  tr:nth-child(even) td {
+    background-color: #020617;
+  }
+
+  tr:nth-child(odd) td {
+    background-color: #030712;
+  }
+
+  /* Optional: make code blocks match dark mode */
+  pre, code {
+    background-color: #020617;
+    color: #e5e7eb;
+  }
 </style>
 
 
