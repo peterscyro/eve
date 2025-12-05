@@ -21,13 +21,16 @@ Breakdown of Mastery Pack Sale and NES Omega conversion values, ISK returns from
 
 ---
 
-| Mastery | Price   | Omega (days) | Plex | Plex ISK Value (4.8m) | SP        | MCT | Boosts              | Skill Extractors | NES Omega Conversion (Days) | Omega Total | Cost/Month | Selling Leftover Plex | Selling Extractors   | Total ISK             |
-| ------- | ------- | ------------ | ---- | --------------------- | --------- | --- | ------------------- | ---------------- | --------------------------- | ----------- | ---------- | --------------------- | -------------------- | --------------------- |
-| 1       | $5.00   | 15           | N/A  | N/A                   | N/A       | N/A | 1× Genius Accel     | N/A              | N/A                         | 15 days     | N/A        | N/A                   | N/A                  | N/A                   |
-| 2       | $11.00  | 30           | 100  | 480,000,000.00        | 250,000   | N/A | 1× Genius Accel     | N/A              | N/A                         | 1 month     | $11.00     | ISK 480,000,000.00    | N/A                  | ISK 480,000,000.00    |
-| 3       | $30.00  | 60           | 500  | 2,400,000,000.00      | 750,000   | N/A | 2× Specialist Accel | N/A              | N/A                         | 2 months    | $15.00     | ISK 2,400,000,000.00  | N/A                  | ISK 2,400,000,000.00  |
-| 4       | $65.00  | 90           | 1000 | 4,800,000,000.00      | 1,200,000 | 2   | 2× Advanced Accel   | 2                | N/A                         | 3 months    | $21.67     | ISK 4,800,000,000.00  | ISK 900,000,000.00   | ISK 5,700,000,000.00  |
-| 5       | $140.00 | 180          | 3000 | 14,400,000,000.00     | 1,700,000 | 2   | 2× Standard Accel   | 10               | 6m Omega + 900 PLEX         | 1 year      | $11.67     | ISK 14,400,000,000.00 | ISK 4,500,000,000.00 | ISK 18,900,000,000.00 |
+## Mastery Pack Sale (Corrected)
+
+| Mastery | Price | Omega (days) | Plex | Plex ISK Value (4.8m) | SP | MCT | Boosts | Skill Extractors | NES Omega Conversion | Omega Total | Cost/Month | Selling Leftover Plex (4.8m) | Selling Extractors (450m) | Total ISK |
+|--------|--------|--------------|-------|-----------------------------|-------------|------|-------------------------|------------------|-------------------------------|----------------|-------------|-------------------------------|-------------------------------|-------------------------------|
+| 1 | $5.00  | 15  | N/A  | N/A                    | N/A        | N/A | 1× Genius Accel      | N/A | N/A        | 15 days  | N/A    | N/A               | N/A               | N/A |
+| 2 | $11.00 | 30  | 100  | 480,000,000.00         | 250,000    | N/A | 1× Genius Accel      | N/A | N/A        | 1 month  | $11.00 | ISK 480,000,000.00 | N/A               | ISK 480,000,000.00 |
+| 3 | $30.00 | 60  | 500  | 2,400,000,000.00       | 750,000    | N/A | 2× Specialist Accel  | N/A | N/A        | 2 months | $15.00 | ISK 2,400,000,000.00 | N/A               | ISK 2,400,000,000.00 |
+| 4 | $65.00 | 90  | 1000 | 4,800,000,000.00       | 1,200,000  | 2   | 2× Advanced Accel    | 2   | N/A        | 3 months | $21.67 | ISK 4,800,000,000.00 | ISK 900,000,000.00 | ISK 5,700,000,000.00 |
+| 5 | $140.00| 180 | 3000 | 14,400,000,000.00      | 1,700,000  | 2   | 2× Standard Accel    | 10  | 6m Omega + 900 PLEX | 1 year | $11.67 | ISK 4,320,000,000.00 | ISK 4,500,000,000.00 | ISK 8,820,000,000.00 |
+
 
 
 ---
