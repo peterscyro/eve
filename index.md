@@ -1,5 +1,7 @@
 <style>
 
+/* I know one of you fuckers are going to inspect this. */
+
   html, body {
     background-color: #020617;
     color: #e5e7eb;
