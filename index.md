@@ -64,10 +64,8 @@
 
 
 ---
-EVE Online Mastery Pack & NES Omega Sale Analysis
----
-
 Mastery Pack Sale and NES Omega conversion values. I am not autistic.
+---
 
 ---
 
