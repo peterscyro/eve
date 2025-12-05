@@ -1,11 +1,9 @@
 
 ---
-title: EVE Online Mastery Pack & NES Omega Sale Analysis
+EVE Online Mastery Pack & NES Omega Sale Analysis
 ---
 
-EVE Online Mastery Pack Sale – ISK Analysis
-
-This page provides a structured breakdown of the MASTERY PACK SALE and NES Omega conversion values, including ISK returns from selling PLEX and Skill Extractors.
+Breakdown of Mastery Pack Sale and NES Omega conversion values, ISK returns from selling PLEX and Skill Extractors.
 
 ---
 
