@@ -1,4 +1,16 @@
+<style>
+.main-content {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+}
 
+table {
+    width: 100% !important;
+    table-layout: fixed;
+}
+</style>
 
 
 ---
