@@ -1,7 +1,5 @@
 <style>
-  /* ============================
-     GLOBAL DARK MODE
-     ============================ */
+
   html, body {
     background-color: #020617;
     color: #e5e7eb;
@@ -9,7 +7,6 @@
     padding: 0;
   }
 
-  /* Make the main content wide on common GitHub Pages themes */
   .main-content,
   .wrapper,
   .container-lg,
@@ -20,12 +17,10 @@
     margin: 0 auto !important;
   }
 
-  /* Headings */
   h1, h2, h3, h4, h5, h6 {
     color: #e5e7eb;
   }
 
-  /* Links */
   a {
     color: #38bdf8;
   }
@@ -33,9 +28,6 @@
     color: #0ea5e9;
   }
 
-  /* ============================
-     TABLE STYLING
-     ============================ */
   table {
     border-collapse: collapse;
     width: 100%;
@@ -64,7 +56,6 @@
     background-color: #030712;
   }
 
-  /* Optional: make code blocks match dark mode */
   pre, code {
     background-color: #020617;
     color: #e5e7eb;
@@ -116,7 +107,7 @@ Mastery Pack Sale and NES Omega conversion values. I am not autistic.
 | **Skill Extractors**       | 2                     | 12                    |
 | **NES Omega Conversion**   | 90 days + 400 PLEX    | 365 days + 1000 PLEX  |
 | **Omega Total**            | 285 days = 9.3 months | 740 days = 2.02 years |
-| **Cost/Month**             | ISK 11.94             | ISK 10.20             |
+| **Cost/Month**             | $11.94                |  $10.20               |
 | **Selling Leftover Plex**  | ISK 7,680,000,000.00  | ISK 4,800,000,000.00  |
 | **Selling Extractors**     | ISK 900,000,000.00    | ISK 5,400,000,000.00  |
 | **Total ISK from Selling** | ISK 8,580,000,000.00  | ISK 10,200,000,000.00 |
