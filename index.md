@@ -1,4 +1,6 @@
 
+
+
 ---
 EVE Online Mastery Pack & NES Omega Sale Analysis
 ---
@@ -21,8 +23,8 @@ Breakdown of Mastery Pack Sale and NES Omega conversion values, ISK returns from
 
 ## Mastery Addition (1 + 2 + 3 + 4)
 
-| Packs Combined | Price | Omega (days) | Plex | SP | MCT | Boosts | Extractors | NES Omega Conversion | Omega Total | Combined Omega | Selling Plex | Selling Extractors | Total ISK |
-|----------------|--------|--------------|-------|---------|------|----------------|------------|-----------------------|----------------|--------------------|--------------------|------------------------|----------------|
+| Mastery | Price | Omega (days) | Plex | SP | MCT | Boosts | Skill Extractors | NES Omega Conversion | Omega Total | Selling Plex (4.8M) | Selling Extractors (450M) | Total ISK |
+|--------|-------|--------------|------|--------|-----|----------------------|-----------------------|----------------------------|-------------|---------------------------|-------------------------------|--------------------|
 | 1 + 2 + 3 + 4 | $111.00 | 195 | 1600 | 2,200,000 | 2 | 1 + 2 + 3 + 4 | 2 | 3 months | 285 days = 9.3 months | ISK 7,680,000,000 | ISK 900,000,000 | ISK 8,580,000,000 |
 
 ---
