@@ -7,7 +7,7 @@ Breakdown of Mastery Pack Sale and NES Omega conversion values, ISK returns from
 
 ---
 
-## ## Mastery Pack Sale
+## Mastery Pack Sale
 
 | Mastery | Price | Omega (days) | Plex | SP | MCT | Boosts | Skill Extractors | NES Omega Conversion | Omega Total | Selling Plex (4.8M) | Selling Extractors (450M) | Total ISK |
 |--------|-------|--------------|------|--------|-----|----------------------|-----------------------|----------------------------|-------------|---------------------------|-------------------------------|--------------------|
@@ -19,7 +19,7 @@ Breakdown of Mastery Pack Sale and NES Omega conversion values, ISK returns from
 
 ---
 
-## ## Mastery Addition (1 + 2 + 3 + 4)
+## Mastery Addition (1 + 2 + 3 + 4)
 
 | Packs Combined | Price | Omega (days) | Plex | SP | MCT | Boosts | Extractors | NES Omega Conversion | Omega Total | Combined Omega | Selling Plex | Selling Extractors | Total ISK |
 |----------------|--------|--------------|-------|---------|------|----------------|------------|-----------------------|----------------|--------------------|--------------------|------------------------|----------------|
@@ -27,7 +27,7 @@ Breakdown of Mastery Pack Sale and NES Omega conversion values, ISK returns from
 
 ---
 
-## ## NES Omega Sale
+## NES Omega Sale
 
 | Months | Plex | % Off | ISK From Selling Plex |
 |--------|-------|--------|-----------------------|
