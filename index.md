@@ -319,9 +319,9 @@ Mastery Pack Sale and NES Omega conversion values. I am not autistic.
 | **NES Omega Conversion**   | 90 days + 400 PLEX    | 365 days + 1000 PLEX  |
 | **Omega Total**            | 285 days = 9.3 months | 740 days = 2.02 years |
 | **Cost/Month**             | $11.94                |  $10.20               |
-| **Selling Leftover Plex**  | ISK 7,680,000,000.00  | ISK 4,800,000,000.00  |
+| **Selling Leftover Plex**  | ISK 1,920,000,000.00  | ISK 4,800,000,000.00  |
 | **Selling Extractors**     | ISK 900,000,000.00    | ISK 5,400,000,000.00  |
-| **Total ISK from Selling** | ISK 8,580,000,000.00  | ISK 10,200,000,000.00 |
+| **Total ISK from Selling** | ISK 2,820,000,000.00 | ISK 10,200,000,000.00 |
 
 ---
 
