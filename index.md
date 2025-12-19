@@ -118,13 +118,13 @@ h2 {
 table {
   width: 100%;
   border-collapse: collapse;
-  min-width: 900px;
-
+  min-width: 760px; /* was 900px */
   background: rgba(0, 10, 16, 0.6);
   border: 1px solid rgba(70, 140, 200, 0.3);
   border-radius: 12px;
   overflow: hidden;
 }
+
 
 th, td {
   padding: 10px 14px;
@@ -273,6 +273,13 @@ tbody tr:hover td {
   100% { transform: scale(1); opacity: 0.3; }
 }
 
+@media (min-width: 1600px) {
+  .container {
+    max-width: 92vw;
+  }
+}
+
+  
 </style>
 
 
